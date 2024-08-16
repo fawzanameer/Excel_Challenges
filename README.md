@@ -15,3 +15,4 @@ The dataset was not pivot-friendly. The goal was to create a bar chart with form
 
 This project involved creating a dynamic bar chart in Excel that adjusts to user-selected date ranges and effectively manages year boundaries. It was an engaging exercise in Excel functionality and data visualization.
 
+![Dashboard Screen Shot](https://github.com/user-attachments/assets/f2214556-d1f9-4216-80c1-2028acb7dbb5)
